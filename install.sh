@@ -1,4 +1,4 @@
-#/bin/bash!
+#!/bin/bash
 PACKAGES=(
     build-essential
     libcurl4-openssl-dev
