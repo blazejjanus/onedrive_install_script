@@ -1,4 +1,4 @@
-# onedrive_install_script
+# Linux OneDrive client update script for Ubuntu 22.X+ / Debian 11+ / Raspbian
 [OneDrive](https://github.com/abraunegg/onedrive) installation script for Raspbian (ARMHF) and Ubuntu 22.x / Debian 11 / Raspbian (ARM64) 
 [See install instruction](https://github.com/abraunegg/onedrive/blob/master/docs/INSTALL.md)
 
